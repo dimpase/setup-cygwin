@@ -1,4 +1,4 @@
-name: Install Cygwin
+name: InstallCygwinUpdated
 description: Install Cygwin & packages
 
 inputs:
